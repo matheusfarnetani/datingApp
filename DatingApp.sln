@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.Server", "DatingApp.Server\DatingApp.Server.csproj", "{1E35DC49-FA85-4993-9370-52390702CE97}"
-EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "datingapp.client", "datingapp.client\datingapp.client.esproj", "{73F905D5-1612-43B9-81EF-8E3ED9C3571B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.Server", "DatingApp.Server\DatingApp.Server.csproj", "{9065C394-20C7-4742-90C9-D38A90687292}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1E35DC49-FA85-4993-9370-52390702CE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E35DC49-FA85-4993-9370-52390702CE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E35DC49-FA85-4993-9370-52390702CE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E35DC49-FA85-4993-9370-52390702CE97}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73F905D5-1612-43B9-81EF-8E3ED9C3571B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73F905D5-1612-43B9-81EF-8E3ED9C3571B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73F905D5-1612-43B9-81EF-8E3ED9C3571B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{73F905D5-1612-43B9-81EF-8E3ED9C3571B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73F905D5-1612-43B9-81EF-8E3ED9C3571B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73F905D5-1612-43B9-81EF-8E3ED9C3571B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9065C394-20C7-4742-90C9-D38A90687292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9065C394-20C7-4742-90C9-D38A90687292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9065C394-20C7-4742-90C9-D38A90687292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9065C394-20C7-4742-90C9-D38A90687292}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
