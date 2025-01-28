@@ -23,6 +23,12 @@ namespace DatingApp.Server.Extensions
             // Token Service
             services.AddScoped<ITokenService, TokenService>();
 
+            // Repository
+            services.AddScoped<IUserRepository, UserRepository>();
+
+            // AutoMapper
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
             return services;
         }
     }
